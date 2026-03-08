@@ -1,0 +1,9 @@
+[general]
+email = ""
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[server]
+headless = true
